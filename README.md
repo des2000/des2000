@@ -15,24 +15,25 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
-# maow maow
+# meow mao
 
 <a href="https://discord.com/users/730027153957322807" target="_blank">
   <img align="right" alt="discord card profile"src="https://lanyard.cnrad.dev/api/730027153957322807" />
 </a>
 
-I love winter.
-  
-  
-  
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+```csharp
+Heya! I'm Desiree
+-------------------------
+Nickname : Mao mao
+Pronouns : She/Her
+Learning : Something cool
+Languages: JavaScript, Java, C#, Python
+Hobbies  : Gaming, Movies, Eating, Sleeping
+Discord  : meowmao#8565
+```
 
+<br/>
+<br/>
+<br/>
 
 [![Hits](https://hits.link/hits?url=https://github.com/des2000&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
