@@ -1,9 +1,10 @@
+<!-- zai my idool -->
 <!-- - 👋 Hi, I’m @des2000
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
-
+  
 <!---
 des2000/des2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,7 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-  ![original](https://user-images.githubusercontent.com/108568563/176999625-347a51a9-6b47-4408-a446-c8f2bb63ee40.gif)
+  ![zai](https://user-images.githubusercontent.com/108568563/177003495-a0e88d55-6633-4b8f-ae4f-aaf51923142a.jpg)
+
+  <!--- ![original](https://user-images.githubusercontent.com/108568563/176999625-347a51a9-6b47-4408-a446-c8f2bb63ee40.gif) --->
   
 </div>
 
